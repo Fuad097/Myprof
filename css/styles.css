@@ -5,10 +5,26 @@
     height: 725px;
     width: 100%;
 }
-a{
+.nav-item .nav-link{
     font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
     font-style: normal;
-    color: aliceblue;
+    font-size: 40px;
+    
   }
-  
+  .port{
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-size: 100px;
+    margin-top: 80px;
+  }
+  #Aboutme{
+    margin-top: 150px;
+    height: 500px;
+  }
+
+  .card img{
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+
+
